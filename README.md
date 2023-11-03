@@ -65,6 +65,7 @@ Query 1 lists the equipment ID and name of equipment that is not currently assig
 
 The provided query is essential for management to identify equipment that is not currently assigned to any room, enabling efficient resource allocation and cost control. It would help managers identify which equipment could be allocated into rooms to ensure that they are maintaining operational efficiency within the medical center.
 
+
 Query 2:
 
 Query 2 lists physicians’ names who did not have any visits on April 29, 2023.
@@ -82,6 +83,7 @@ Query 3 lists all physicians and the total number of visits they have conducted.
 
 This query allows managers to monitor physician progress and could be used for Employee of the Week purposes. This would also enable managers to assess the productivity and contributions to patient care of the physicians.By tracking how frequently physicians have patient visits and identifying any underperformance and potential discrepancies.
 
+
 Query 4:
 
 Query 4 calculates the average price of equipment in each room.
@@ -90,12 +92,14 @@ Query 4 calculates the average price of equipment in each room.
 
 Query 4 allows the clinic managers to see which rooms they have invested the most money into for equipment, and which rooms they have invested the least in. It gives an idea of which rooms could use further investment in equipment in order to improve the care and treatment for patients.
 
+
 Query 5:
 
 Query 5 lists the patients with a total billing amount exceeding 3000 dollars.
 <img width="631" alt="Screen Shot 2023-11-03 at 6 14 01 PM" src="https://github.com/aanjum2003/healthcare/assets/148798153/d55154b9-c732-4ed7-aff8-6a9a0a8b7074">
 
 This query enables clinic managers to find which patients have spent over $3,000 total over all of their visits. The clinic policy is that once a patient has been billed over $3,000 they have the option to enroll in the clinic’s payment plan to pay on a monthly basis. This is designed for patients with frequent visits.
+
 
 Query 6:
 
@@ -105,6 +109,7 @@ Query 6 lists the patient names and the number of visits they have whose status 
 
 Query 6 permits clinic managers to identify the number of visits a patient has scheduled and actually attended. Canceled appointments are frequent occurrences for clinics. Therefore it is important for managers to have the ability to omit them when finding the number of appointments a patient has had.
 
+
 Query 7:
 
 Query 7 displays the name (last name and first name concatenated) of the physician and the amount of billing he has generated. Order results in a descending value of dollars’ worth of billing.
@@ -113,6 +118,7 @@ Query 7 displays the name (last name and first name concatenated) of the physici
 
 
 Query 7 grants the clinic the capability to find the total billing amount each doctor has generated. There are numerous reasons this is valuable. For instance, a physician could be overcharging patients accidentally, or maybe the clinic is interested in seeing the physicians who have produced the most revenue so that the clinic can give them a salary bonus.
+
 
 Query 8:
 
@@ -133,6 +139,7 @@ Query 9 lists the visit with the highest number of tests performed.
 
 
 Query 9 allows managers to identify the highest amount of tests conducted during one visit. Perhaps they are considering adding an additional charge if a certain number of tests are conducted, and they wish to see the largest number in order to help them make a more informed decision.
+
 
 Query 10:
 
